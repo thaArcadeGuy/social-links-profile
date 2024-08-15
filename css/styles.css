@@ -79,6 +79,6 @@ h1 {
 
 @media screen and (max-width: 600px) {
     .profile-card {
-        width: 320px;
+        width: 300px;
     }
 }
