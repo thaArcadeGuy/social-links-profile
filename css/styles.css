@@ -62,7 +62,8 @@ h1 {
     border-radius: 6px;
 }
 
-.social-profiles a:hover {
+.social-profiles a:hover,
+.social-profiles a:focus {
     background-color: hsl(75, 94%, 57%);
 }
 
